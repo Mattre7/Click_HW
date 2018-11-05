@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Lebron",
+        "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2544.png",
+        "number": 23,
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Lonzo",
+        "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628366.png",
+        "number": 2,
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Kuzma",
+        "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628398.png",
+        "number": 0,
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Ingram",
+        "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627742.png",
+        "number": 14,
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "McGee",
+        "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201580.png",
+        "number": 7,
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Rondo",
+        "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200765.png",
+        "number": 9,
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Lance",
+        "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202362.png",
+        "number": 6,
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "Hart",
+        "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628404.png",
+        "number": 3,
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "KCP",
+        "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203484.png",
+        "number": 1,
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Svi",
+        "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629004.png",
+        "number": 10,
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "Zubac",
+        "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627826.png",
+        "number": 40,
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "Beasley",
+        "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201563.png",
+        "number": 11,
+        "clicked": false
+    }
+]

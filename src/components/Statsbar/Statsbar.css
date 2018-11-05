@@ -1,0 +1,12 @@
+.statsbar {
+    background-color: blueviolet;
+    border-color:gold;
+    border-style: double;
+    border-width: 8px;
+}
+.score {
+    color:white;
+    padding: 5px 10px 15px;
+    font-size: 45px;
+    font-family: initial
+}
